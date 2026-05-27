@@ -2,12 +2,6 @@
 
 A simple browser-based maze game where the player navigates through a maze to reach the bed.
 
-## 🌐 Live Demo
-
-https://anshramanath.github.io/Maze-Runner
-
----
-
 ## ✨ Features
 
 - 10x10 maze grid
