@@ -2,6 +2,7 @@
 
 A simple browser-based maze game where the player navigates through a maze to reach the bed.
 
+
 ## ✨ Features
 
 - 10x10 maze grid
